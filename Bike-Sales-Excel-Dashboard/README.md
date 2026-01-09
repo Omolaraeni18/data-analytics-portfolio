@@ -68,4 +68,4 @@ The Excel file contains **multiple sheets** for different analyses:
 - **Cleaned Data** – Cleaned and standardized data  
 - **Pivot Tables & Charts** – Dashboard and summary insights  
 
-[View the Excel file here](data/bike_sales_data.xlsx)
+[View the Excel file here](data/Bike_Sales_Dashboard.xlsx)
