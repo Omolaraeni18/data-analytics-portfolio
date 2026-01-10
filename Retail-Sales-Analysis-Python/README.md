@@ -68,7 +68,7 @@ This project analyzes retail sales data for Axia Africa using **Python** to iden
 - Revenue is **increasing over time**, indicating growth  
 - See chart below for visual trend:
 
-![Revenue Trend Over Time](screenshots/revenue_trend_chart.png)
+![Revenue Trend Over Time](screenshots/revenue_trend_chart.PNG)
 
 ---
 
