@@ -20,7 +20,7 @@ These projects demonstrate my ability to **clean data, analyze trends, answer bu
 - **Excel** – Data cleaning, formulas, dashboards, and business reporting  
 - **SQL (MySQL)** – Database setup, querying, and business analysis  
 - **Python** – Python – Data cleaning, manipulation, and analysis using Pandas; data visualization using Matplotlib
-  - **Power BI** – Interactive dashboards, DAX and KPI reporting  
+- **Power BI** – Interactive dashboards, DAX and KPI reporting  
 
 ---
 
